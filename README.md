@@ -1,6 +1,6 @@
 # 🚀 #100DaysOfNetworkingExpart
 
-Welcome to my **#100DaysOfNetworkingExpart** journey! 🌍🔌  
+Welcome to my **#100DaysOfNetworkingExpert** journey! 🌍🔌  
 
 This repository is dedicated to **network engineers, students, and enthusiasts** who want to **learn, revise, and practice networking concepts** step by step. Whether you're just starting with **CCNA** or diving into **CCNP and beyond**, this challenge is for you!  
 
@@ -32,4 +32,4 @@ This repository is dedicated to **network engineers, students, and enthusiasts**
 🚀 Let's make networking learning **engaging, practical, and fun!**  
 
 ---
-#Networking #CCNA #CCNP #Learning #100DaysOfNetworkingExpart  
+#Networking #CCNA #CCNP #Learning #100DaysOfNetworkingExpert  
